@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/test-legsy/static/css/main.8a0ba045.css",
+    "main.js": "/test-legsy/static/js/main.8bded907.js",
+    "static/js/787.764c4f13.chunk.js": "/test-legsy/static/js/787.764c4f13.chunk.js",
+    "index.html": "/test-legsy/index.html",
+    "main.8a0ba045.css.map": "/test-legsy/static/css/main.8a0ba045.css.map",
+    "main.8bded907.js.map": "/test-legsy/static/js/main.8bded907.js.map",
+    "787.764c4f13.chunk.js.map": "/test-legsy/static/js/787.764c4f13.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a0ba045.css",
+    "static/js/main.8bded907.js"
+  ]
+}
